@@ -6,7 +6,7 @@ All it should do:
 
 1. No ulterior motives - no social networking, collectables, etc
 2. Allow customization, but not stray too far from the intended UX
-3. Not be for promit - Full functionality for no price
+3. Not be for profit - Full functionality for no price
 
 # Core Functionality
 
